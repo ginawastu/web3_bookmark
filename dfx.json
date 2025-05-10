@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "web3_bookmark_backend": {
+      "main": "src/web3_bookmark_backend/main.mo",
+      "type": "motoko"
+    },
+    "web3_bookmark_frontend": {
+      "dependencies": [
+        "web3_bookmark_backend"
+      ],
+      "source": [
+        "src/web3_bookmark_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "web3_bookmark_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
