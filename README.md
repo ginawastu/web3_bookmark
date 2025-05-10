@@ -1,8 +1,8 @@
 # `web3_bookmark`
 
-## web3_bookmark_frontend: `https://uryyb-jiaaa-aaaam-aej5a-cai.icp0.io/`
+## Frontend: `https://uryyb-jiaaa-aaaam-aej5a-cai.icp0.io/`
 
-## web3_bookmark_backend: `https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=uy3t5-7aaaa-aaaam-aej4q-cai`
+## Backend: `https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=uy3t5-7aaaa-aaaam-aej4q-cai`
 
 Welcome to your new `web3_bookmark` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
